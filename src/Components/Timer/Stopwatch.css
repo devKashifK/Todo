@@ -1,0 +1,19 @@
+.second_line {
+    position: absolute;
+    
+}
+.animation{
+    animation: rotate 60s infinite linear;
+    background: #FF5722;
+    height: 53%;
+    left: 49.5%;
+    top: 0%;
+    transform-origin: 52% 94%;
+    width: 0.5px;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotateZ(360deg);
+  }
+}

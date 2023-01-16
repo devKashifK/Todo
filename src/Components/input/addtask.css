@@ -1,0 +1,12 @@
+.input_box:hover{
+border: 1px solid #ff5722;
+transition: 250ms all linear ;
+}
+.input{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}

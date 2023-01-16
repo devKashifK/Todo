@@ -1,0 +1,17 @@
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #794e4159;
+  border-radius: 50%;
+ min-width: 40px !important;
+  min-height: 40px !important;
+  color: white;
+  margin: 0px 10px;
+  cursor: pointer;
+ 
+}
+.icons:hover{
+    background-color: black;
+    color: #ff5722;
+}
